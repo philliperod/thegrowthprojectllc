@@ -18,6 +18,22 @@
     - Enrollment form
     - Career
 
+### Sidebar Section:
+
+- [ ] Logo: left alignment
+- [ ] Hamburger button
+  - [ ] Home
+    - Mission
+  - [ ] Consultation
+    - Consultant
+    - Development
+  - [ ] About us
+    - Leadership
+  - [ ] Contact us
+    - Contact
+    - Enrollment form
+    - Career
+
 ### Footer Section (center):
 
 - [ ] Address
