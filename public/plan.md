@@ -1,87 +1,91 @@
-## The Growth Project, LLC
+## **The Growth Project, LLC**
+
+---
 
 ### Navbar Section:
 
-- Logo: left alignment
-- Navlinks: right alignment
-  - Home
+- [ ] Logo: left alignment
+- [ ] Navlinks: right alignment
+  - [ ] Home
     - Mission
-  - Consultation
+  - [ ] Consultation
     - Consultant
     - Development
-  - About us
+  - [ ] About us
     - Leadership
-  - Contact us
+  - [ ] Contact us
     - Contact
     - Enrollment form
     - Career
 
 ### Footer Section (center):
 
-- Address
-- Phone number
-- Email
-- Trademark
+- [ ] Address
+- [ ] Phone number
+- [ ] Email
+- [ ] Trademark
+
+---
 
 ### Hero/Home Section:
 
 - Top container
-  - Business image
+  - [ ] Business image
 - Middle container
-  - Mission statement
+  - [ ] Mission statement
 - Bottom container
-  - Belief / image
+  - [ ] Belief / image
 
 ### Consultation Section:
 
-- Route to Consulting
+- [ ] Route to Consulting
   - Top container
-    - Title / paragraph
+    - [ ] Title / paragraph
   - Middle container
-    - (3) image / bulletin points
+    - [ ] (3) image / bulletin points
   - Bottom container
-    - Paragraph
-    - Enrollment button (route to enrollment form)
-- Route to Team Building
+    - [ ] Paragraph
+    - [ ] Enrollment button (route to enrollment form)
+- [ ] Route to Team Building
   - Top container
-    - Title / paragraph
+    - [ ] Title / paragraph
   - Middle container
-    - (2) image / bulletin points
+    - [ ] (2) image / bulletin points
   - Bottom container
-    - Paragraph
-    - Enrollment button (route to enrollment form)
-- Route to Individual Building
+    - [ ] Paragraph
+    - [ ] Enrollment button (route to enrollment form)
+- [ ] Route to Individual Building
   - Top container
-    - Title / paragraph
+    - [ ] Title / paragraph
   - Middle container
-    - (3) image / bulletin points
+    - [ ] (3) image / bulletin points
   - Bottom container
-    - Enrollment button (route to enrollment form)
+    - [ ] Enrollment button (route to enrollment form)
 
 ### About Us Section:
 
 - Top container
-  - Image / name
+  - [ ] Image / name
 - Middle container
-  - Profile
+  - [ ] Profile
 - Bottom container
-  - Unknown
+  - [ ] Unknown
 
 ### Contact Us Section:
 
-- Route to Main Contact
-  - Contact Form
-- Route to Enrollment Form
+- [ ] Route to Main Contact
+  - [ ] Contact Form
+- [ ] Route to Enrollment Form
   - Top Container
-    - Title / paragraph
+    - [ ] Title / paragraph
   - Middle container
-    - Form
-- Route to Career
+    - [ ] Form
+- [ ] Route to Career
   - Top container
-    - Image / Title / paragraph
+    - [ ] Image / Title / paragraph
   - Middle container
-    - (2) image / description
-      - Job description
-      - Candidate description
+    - [ ] (2) image / description
+      - [ ] Job description
+      - [ ] Candidate description
   - Bottom container
-    - Form
+    - [ ] Form
