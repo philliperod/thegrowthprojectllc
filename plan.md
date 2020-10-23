@@ -5,7 +5,7 @@
 ### Navbar Section:
 
 - [x] Logo: left alignment
-- [ ] Navlinks: right alignment
+- [x] Navlinks: right alignment
   - [x] Home
     - Mission
   - [ ] Consultation

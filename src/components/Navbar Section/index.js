@@ -21,7 +21,16 @@ const Navbar = () => {
           </Hamburger>
           <NavMenu>
             <NavItem>
-              <NavLinks to="home">Home</NavLinks>
+              <NavLinks to="/">Home</NavLinks>
+            </NavItem>
+            <NavItem>
+              <NavLinks to="/consultation">Consultation</NavLinks>
+            </NavItem>
+            <NavItem>
+              <NavLinks to="/about">About</NavLinks>
+            </NavItem>
+            <NavItem>
+              <NavLinks to="/contact">Contact</NavLinks>
             </NavItem>
           </NavMenu>
         </NavbarContainer>
