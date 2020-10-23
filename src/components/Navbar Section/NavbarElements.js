@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import { Link as LinkRoute } from 'react-router-dom';
-// import { Link as LinkScroll } from 'react-scroll';
+import { Link as LinkScroll } from 'react-scroll';
 
 export const Nav = styled.nav`
   background: #90b4ce;
@@ -8,7 +8,7 @@ export const Nav = styled.nav`
   //   margin-top: -80px;
   display: flex;
   justify-content: center;
-  align-tems: center;
+  align-items: center;
   font-size: 1rem;
   position: sticky;
   top: 0;
@@ -52,6 +52,7 @@ export const Hamburger = styled.div`
     transform: translate(-100%, 60%);
     font-size: 1.8rem;
     cursor: pointer;
+    color: #fff;
   }
 `;
 
