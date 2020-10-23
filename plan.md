@@ -4,9 +4,9 @@
 
 ### Navbar Section:
 
-- [ ] Logo: left alignment
+- [x] Logo: left alignment
 - [ ] Navlinks: right alignment
-  - [ ] Home
+  - [x] Home
     - Mission
   - [ ] Consultation
     - Consultant

@@ -3,7 +3,7 @@ import { Link as LinkRoute } from 'react-router-dom';
 import { Link as LinkScroll } from 'react-scroll';
 
 export const Nav = styled.nav`
-  background: #90b4ce;
+  background: #094067;
   height: 80px;
   //   margin-top: -80px;
   display: flex;
@@ -30,7 +30,7 @@ export const NavbarContainer = styled.div`
 `;
 
 export const NavLogo = styled(LinkRoute)`
-  color: #094067;
+  color: #ef4565;
   justify-self: flex-start;
   cursor: pointer;
   font-size: 1.5rem;
@@ -80,7 +80,7 @@ export const NavLinks = styled(LinkScroll)`
   height: 100%;
   cursor: pointer;
 
-  &.active {
-    border-bottom: 3px solid #ef4565;
+  &:hover {
+    border-bottom: 3px solid #3da9fc;
   }
 `;
