@@ -7,7 +7,8 @@ import {
   Hamburger,
   NavMenu,
   NavItem,
-  NavLinks
+  NavLinks,
+  NavButton
 } from './NavbarElements';
 
 const Navbar = () => {

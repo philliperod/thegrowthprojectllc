@@ -8,15 +8,16 @@
 - [x] Navlinks: right alignment
   - [x] Home
     - Mission
-  - [ ] Consultation
+  - [x] Consultation
     - Consultant
     - Development
-  - [ ] About us
+  - [x] About us
     - Leadership
-  - [ ] Contact us
+  - [x] Contact us
     - Contact
     - Enrollment form
     - Career
+  - reconsidering a dropdown menu for each navlink
 
 ### Sidebar Section:
 
